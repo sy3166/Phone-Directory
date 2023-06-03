@@ -1,0 +1,24 @@
+body{
+    /* margin: 0; */
+    width:80%;
+    float: right;
+}
+#Contactlist{
+    text-align: center;
+    color: grey;
+}
+#namesandphone{
+    border: brown solid 6px;
+    border-radius: 5%;
+    width:75%;
+    
+}
+#namesandphone:hover{
+    background-color: lightslategrey;
+    color: white;
+}
+
+#delete-button i{
+    background-color: white;
+    color:red;
+}
